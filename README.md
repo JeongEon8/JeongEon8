@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/c58724af-5506-4361-b47d-90ee9db86344" />
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
 
