@@ -34,11 +34,3 @@
   <h3></h3>
   
 </div>
-
-<br>
-<br>
-
-<div align="center">
-  <h3>📊 summary 📊</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=JeongEon8">
-</div>
