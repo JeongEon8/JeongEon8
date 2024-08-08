@@ -6,11 +6,6 @@
 <br>
 <br>
 
-<!--움직이는 환영글-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&size=90&pause=1000&color=1F71F7&center=true&vCenter=true&width=1500&height=200&lines=HI!+Welcome+to+My+Github!;%EC%A0%9C+%EA%B9%83%ED%97%88%EB%B8%8C%EB%A5%BC+%EB%B0%A9%EB%AC%B8%ED%95%B4%EC%A3%BC%EC%85%94%EC%84%9C+%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
-
-<br>
-
 <!--뱃지-->
 <div align="center">
   <h3>🛠 Tech Stack 🛠</h3>
